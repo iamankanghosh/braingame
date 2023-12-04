@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/braingame/static/css/main.61f939dd.css",
-    "main.js": "/braingame/static/js/main.778a7c3f.js",
+    "main.css": "/braingame/static/css/main.b0db6be2.css",
+    "main.js": "/braingame/static/js/main.9da8a9b5.js",
     "static/js/787.92c4adbd.chunk.js": "/braingame/static/js/787.92c4adbd.chunk.js",
     "index.html": "/braingame/index.html",
-    "main.61f939dd.css.map": "/braingame/static/css/main.61f939dd.css.map",
-    "main.778a7c3f.js.map": "/braingame/static/js/main.778a7c3f.js.map",
+    "main.b0db6be2.css.map": "/braingame/static/css/main.b0db6be2.css.map",
+    "main.9da8a9b5.js.map": "/braingame/static/js/main.9da8a9b5.js.map",
     "787.92c4adbd.chunk.js.map": "/braingame/static/js/787.92c4adbd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61f939dd.css",
-    "static/js/main.778a7c3f.js"
+    "static/css/main.b0db6be2.css",
+    "static/js/main.9da8a9b5.js"
   ]
 }
